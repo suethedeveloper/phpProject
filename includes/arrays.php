@@ -13,8 +13,8 @@
         "title" => "Menu"
       ),
       array(
-        "slug"  => "cotact.php",
-        "title" => "Cotact"
+        "slug"  => "contact.php",
+        "title" => "Contact"
       )                  
     );
 
